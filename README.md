@@ -27,6 +27,7 @@ if __name__ == "__main__":
 <div align=center>
     <img src="https://cdn.jsdelivr.net/gh/Mr-Second/ImageBed@master/img/202207251654503.png"/>
 </div>
+
 ### Output
 
 ![result](https://cdn.jsdelivr.net/gh/Mr-Second/ImageBed@master/img/202207251658418.png)
